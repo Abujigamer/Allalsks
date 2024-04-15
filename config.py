@@ -45,7 +45,7 @@ DB_NAME = environ.get("DB_NAME", "cluste0")
 # Ask Doubt on telegram @KingVJ01
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+BOT_TOKEN = environ.get("BOT_TOKEN", "6653418871:AAFLUHhROo4AE7WnyPySm45cfh3U9m7PWV8")
 BOT_USERNAME = environ.get("BOT_USERNAME", "Auto_file_clone_bot") # your bot username without @
 PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
 
